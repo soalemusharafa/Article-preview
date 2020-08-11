@@ -1,0 +1,96 @@
+body{
+    width: 375px;
+    font-size: 13px; 
+ }
+   
+
+ .attribution { font-size: 11px; text-align: center; }
+ .attribution a { color: hsl(228, 45%, 44%); }
+ 
+
+
+ .my_div{
+       
+    background: hsl(210, 46%, 95%);
+    margin-bottom: 10%;   
+ }
+
+   
+ .div_in{
+        margin-left: 5%;
+        margin-right: 20%;
+        padding-bottom: 10%;
+        padding-top: 10%;  
+   }
+
+ .drawers{
+    width: 320px;
+    height: 150px;
+  border-top-right-radius: 7px;
+  border-top-left-radius:7px;
+    
+ }
+
+
+ ul{
+    list-style-type: none; 
+    display: inline;
+    
+ }  
+
+ 
+ ul li{
+    display: inline;
+ }
+
+
+ #book{
+    color:white;
+    font-size: larger;
+    margin: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+ }
+
+
+ #tweet{
+  color:white;
+  font-size: larger;
+  margin: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+
+#pin{
+  color:white;
+  font-size: larger;
+  margin: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+
+#face{
+  font-size: x-large;
+  padding-left: 10px;
+}
+
+#share{
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+
+
+.hey{
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius:7px;
+    background-color: white;
+    width: 320px;
+    padding: 10%;
+    padding-bottom: 0;
+
+ }
+
+
